@@ -10,6 +10,7 @@ GAS（Google Apps Script）を軸に、生成AI API を組み合わせていま�
 | 領収書の写真をAIで読み取り、経費表に自動で記録 | GAS、Gemini API | [receipt-ocr](demos/receipt-ocr/) |
 | フォームの問い合わせを一覧に転記して、担当者にメールで通知 | GAS、Googleフォーム、Gmail | [form-notify](demos/form-notify/) |
 | アンケートの回答を毎週集計してメールで送り、推移をグラフで見せる | GAS、Googleフォーム、Gmail、スプレッドシートのグラフ | [form-report](demos/form-report/) |
+| 請求書をインボイス対応のPDFとGmailの下書きにし、入金の照らし合わせまで自動に | GAS、Googleドライブ、Gmail | [invoice](demos/invoice/) |
 
 ## フォルダ構成
 
